@@ -1,3 +1,4 @@
+## Lucas Fernandes Firmimo 622122322
 # Lista de Exercícios II: Estrutura Sequencial
 1. Escreva um algoritmo que leia dois números informados pelo usuário a partir do teclado e que apresente o resultado da média aritmética dos dois números informados.
 ```
