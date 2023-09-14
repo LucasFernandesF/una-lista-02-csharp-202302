@@ -1,0 +1,14 @@
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\bin\Debug\net7.0\exercicio4.exe
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\bin\Debug\net7.0\exercicio4.deps.json
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\bin\Debug\net7.0\exercicio4.runtimeconfig.json
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\bin\Debug\net7.0\exercicio4.dll
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\bin\Debug\net7.0\exercicio4.pdb
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\obj\Debug\net7.0\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\obj\Debug\net7.0\exercicio4.AssemblyInfoInputs.cache
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\obj\Debug\net7.0\exercicio4.AssemblyInfo.cs
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\obj\Debug\net7.0\exercicio4.csproj.CoreCompileInputs.cache
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\obj\Debug\net7.0\exercicio4.dll
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\obj\Debug\net7.0\refint\exercicio4.dll
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\obj\Debug\net7.0\exercicio4.pdb
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\obj\Debug\net7.0\exercicio4.genruntimeconfig.cache
+D:\VsCode\Faculdade\una-lista-02-csharp-202302\exercicio4\obj\Debug\net7.0\ref\exercicio4.dll
